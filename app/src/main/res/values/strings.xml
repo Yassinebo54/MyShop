@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyShop</string>
+    <string name="no_account">Dont have an account? <b>Sign Up</b></string>
+</resources>
